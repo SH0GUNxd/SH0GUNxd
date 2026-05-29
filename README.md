@@ -40,14 +40,6 @@
 
 ---
 
-### [`my_printf`] - C · 2025
-> Reimplementation of the C standard library's printf from scratch
-
-- Handles core format specifiers, variadic arguments, and edge cases
-- Focus on correctness and memory safety
-
----
-
 ## 📚 Training
 
 | Bootcamp | Language | Focus |
