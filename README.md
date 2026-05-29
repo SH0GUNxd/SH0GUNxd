@@ -63,7 +63,7 @@
 ## 🧰 Languages & Tools
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,python,mysql,html,css,ocaml,git,github,linux,bash,docker,gdb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,python,mysql,html,css,ocaml,git,github,linux,bash,docker)](https://skillicons.dev)
 
 ---
 
