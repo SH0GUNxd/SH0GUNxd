@@ -1,12 +1,12 @@
-# Hi 👋, I'm Félix Vandenbroucke
+# Hi, I'm Félix Vandenbroucke 👋
 
-> Élève-Ingénieur @ **EPITA** - Promo 2028 · Ex-CPGE MPI @ Faidherbe · Seeking a 6-month software internship
+> Élève-Ingénieur @ **EPITA** - Promo 2028 · Ex-CPGE MPI @ Faidherbe
 
 ---
 
 - 🏗️ **Systems builder** - POSIX shell, custom tar archiver, reimplemented printf, full Tiger compiler
 - 🔬 **CPGE-trained** - rigorous background in abstract math, algorithms, and theoretical CS (Lycée Faidherbe, Lille)
-- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Linux · Docker · Git
+- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Shell · Linux · Docker · Git
 - 🌍 **Languages**: French (native) · English C1 · German B2
 - 🤖 **Electives**: Advanced C++ · Robotics
 
@@ -32,7 +32,7 @@
 
 ---
 
-### [`POSIX Shell`] - C · 2025
+### [`42sh POSIX Shell`] - C · 2025
 > 2000+ lines. `fork`, `exec`, signal handling, zero memory leaks.
 
 - Strict POSIX compliance, modular architecture
