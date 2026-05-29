@@ -69,6 +69,6 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-vandenbroucke)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:felix.vandenbroucke@epita.fr)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felix-vandenbroucke/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:felix.vandenbroucke@gmail.com)
 
