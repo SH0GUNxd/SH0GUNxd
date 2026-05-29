@@ -80,8 +80,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-vandenbroucke)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:felix.vandenbroucke@epita.fr)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SH0GUNxd&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-</p>
