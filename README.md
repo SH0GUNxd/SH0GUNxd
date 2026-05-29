@@ -54,7 +54,7 @@
 
 ## 🧰 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,python,postgresql,html,css,ocaml,git,github,linux,bash,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,python,postgresql,ocaml,html,css,git,github,linux,bash,docker)](https://skillicons.dev)
 
 ---
 
