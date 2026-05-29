@@ -6,7 +6,7 @@
 
 - 🏗️ **Systems builder** - POSIX shell, custom tar archiver, reimplemented printf, full Tiger compiler
 - 🔬 **CPGE-trained** - rigorous background in abstract math, algorithms, and theoretical CS (Lycée Faidherbe, Lille)
-- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Shell · Linux · Docker · HTML/CSS · Git
+- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Shell · OCaml · Linux · Docker · HTML/CSS · Git
 - 🌍 **Languages**: French (native) · English C1 · German B2
 - 🤖 **Electives**: Advanced C++ · Robotics
 
