@@ -6,7 +6,7 @@
 
 - 🏗️ **Systems builder** - POSIX shell, custom tar archiver, reimplemented printf, full Tiger compiler
 - 🔬 **CPGE-trained** - rigorous background in abstract math, algorithms, and theoretical CS (Lycée Faidherbe, Lille)
-- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Shell · Linux · Docker · Git
+- 🛠️ **Stack**: C · C++ · Python · SQL · JavaScript · Java · Shell · Linux · Docker · HTML/CSS · Git
 - 🌍 **Languages**: French (native) · English C1 · German B2
 - 🤖 **Electives**: Advanced C++ · Robotics
 
@@ -68,6 +68,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
