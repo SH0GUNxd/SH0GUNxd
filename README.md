@@ -46,7 +46,6 @@
 ---
 
 ### [`epitar`] - POSIX ustar tar archiver · C · 2026
-<<<<<<< HEAD
 > Built to be correct, not just functional (`-std=c99 -pedantic -Werror`).
 - Full POSIX `ustar` header handling, recursive archiving & extraction, GNU tar interoperability.
 - 78-test suite covering roundtrip correctness and block-boundary edge cases.
