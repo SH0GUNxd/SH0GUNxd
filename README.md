@@ -14,7 +14,7 @@
 
 ## 🔧 Projects
 
-### [`c-json-toolkit`] - C99 · 2026
+### [`c-json-toolkit`](https://github.com/yourusername/c-json-toolkit) - C99 · 2026
 > A zero-dependency, strict C99 JSON parser featuring RFC 8259 compliance, Schema validation, and JSON Patch/Pointer.
 - Built from scratch with a recursive descent parser and custom tokenization.
 - Features a 150+ assertion test suite and automated fuzzing (AFL++ / libFuzzer).
@@ -22,7 +22,7 @@
 
 ---
 
-### [`java-task-manager`] - Java 21 / Vanilla JS · 2026
+### [`java-task-manager`](https://github.com/yourusername/java-task-manager) - Java 21 / Vanilla JS · 2026
 > A full-stack, zero-dependency task manager with a custom HTTP REST API and Kanban frontend.
 - Built a native HTTP server in pure Java (`com.sun.net.httpserver`) without Spring Boot.
 - Implemented atomic JSON persistence to ensure data safety.
@@ -30,7 +30,8 @@
 
 ---
 
-### [`42sh` (POSIX Shell)] - C · 2025
+### 🔒 **`42sh` (POSIX Shell)** - C · 2025
+> *Private academic project — Source code available upon request.*
 > A complete, POSIX-compliant command-line shell written from scratch.
 - Implemented a custom lexer and LL(1) parser to build an Abstract Syntax Tree (AST).
 - Features command execution, variable expansion, pipelines, redirections, and built-ins.
@@ -38,18 +39,19 @@
 
 ---
 
-### [`TIGER Compiler`] - C++ · 2025-2026
+### 🔒 **`TIGER Compiler`** - C++ · 2025-2026
+> *Private academic project — Source code available upon request.*
 > Full compiler for the Tiger language - the flagship project of the year.
 - Implemented the full compilation pipeline from spec (lexing, parsing, AST construction, name binding, type checking).
 - Navigated and extended complex compiler infrastructure under strict academic constraints.
 
 ---
 
-### [`epitar`] - POSIX ustar tar archiver · C · 2026
+### 🔒 **`epitar` (POSIX Tar)** - C · 2026
+> *Private academic project — Source code available upon request.*
 > Built to be correct, not just functional (`-std=c99 -pedantic -Werror`).
 - Full POSIX `ustar` header handling, recursive archiving & extraction, GNU tar interoperability.
 - 78-test suite covering roundtrip correctness and block-boundary edge cases.
-
 ---
 
 ## 📚 Training
