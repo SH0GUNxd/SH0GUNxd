@@ -14,7 +14,7 @@
 
 ## 🔧 Projects
 
-### [`c-json-toolkit`](https://github.com/yourusername/c-json-toolkit) - C99 · 2026
+### [`c-json-toolkit`](https://github.com/SH0GUNxd/c-json-toolkit) - C99 · 2026
 > A zero-dependency, strict C99 JSON parser featuring RFC 8259 compliance, Schema validation, and JSON Patch/Pointer.
 - Built from scratch with a recursive descent parser and custom tokenization.
 - Features a 150+ assertion test suite and automated fuzzing (AFL++ / libFuzzer).
@@ -22,7 +22,7 @@
 
 ---
 
-### [`java-task-manager`](https://github.com/yourusername/java-task-manager) - Java 21 / Vanilla JS · 2026
+### [`java-task-manager`](https://github.com/SH0GUNxd/java-task-manager) - Java 21 / Vanilla JS · 2026
 > A full-stack, zero-dependency task manager with a custom HTTP REST API and Kanban frontend.
 - Built a native HTTP server in pure Java (`com.sun.net.httpserver`) without Spring Boot.
 - Implemented atomic JSON persistence to ensure data safety.
