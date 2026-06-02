@@ -23,9 +23,10 @@
 ---
 
 ### [`java-task-manager`](https://github.com/SH0GUNxd/java-task-manager) - Java 21 / Vanilla JS · 2026
-> A full-stack, zero-dependency task manager with a custom HTTP REST API and Kanban frontend.
-- Built a native HTTP server in pure Java (`com.sun.net.httpserver`) without Spring Boot.
-- Implemented atomic JSON persistence to ensure data safety.
+> A robust, thread-safe task manager with a custom REST API, atomic JSON persistence, and a Kanban frontend.
+- Engineered a high-concurrency backend using Java's native HttpServer with a custom thread pool.
+- Guaranteed data integrity via ReentrantReadWriteLock and atomic file-system operations.
+- Containerized with Docker and hardened through an automated CI/CD pipeline.
 - Developed a responsive, dark-mode Kanban board using raw HTML/CSS/JS.
 
 ---
