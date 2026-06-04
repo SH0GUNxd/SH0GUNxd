@@ -14,6 +14,12 @@
 
 ## 🔧 Projects
 
+### [`mini-redis`](https://github.com/SH0GUNxd/mini-redis) - C++20 · 2026
+> A multithreaded, in-memory key-value store built from scratch with OS primitives, implementing the Redis protocol.
+- Engineered a custom thread pool and reader-writer locking mechanism (`std::shared_mutex`) for high-concurrency request handling.
+- Implemented robust data persistence via Append-Only File (AOF) logging and background snapshotting using `fork()`.
+- Containerized the architecture via multi-stage Docker builds and automated integration testing over real TCP connections.
+
 ### [`c-json-toolkit`](https://github.com/SH0GUNxd/c-json-toolkit) - C99 · 2026
 > A zero-dependency, strict C99 JSON parser featuring RFC 8259 compliance, Schema validation, and JSON Patch/Pointer.
 - Built from scratch with a recursive descent parser and custom tokenization.
