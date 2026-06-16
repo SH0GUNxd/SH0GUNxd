@@ -1,6 +1,6 @@
 # Hi, I'm Félix Vandenbroucke 👋
 
-> Élève-Ingénieur @ **EPITA** - Promo 2028 · Ex-CPGE MPI @ Faidherbe
+> CS Engineering Student @ EPITA - Class of 2028 · Ex-CPGE MPI @ Faidherbe
 
 ---
 
