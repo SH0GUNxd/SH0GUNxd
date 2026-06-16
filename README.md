@@ -1,6 +1,6 @@
 # Hi, I'm Félix Vandenbroucke 👋
 
-> CS Engineering Student @ EPITA - Class of 2028 · Ex-CPGE MPI @ Faidherbe
+> Software Engineering Student @ EPITA - Class of 2028 · Ex-CPGE MPI @ Faidherbe
 
 ---
 
